@@ -1,1 +1,1 @@
-# HANACloud-Workshop2 -- latest
+# HANACloud-Workshop2 
